@@ -1,6 +1,6 @@
 # Analyze A/B Test Results
 
-This project was completed as part of the course requirements of **Udacity's Data Analyst Nanodegree** certification program. 
+This project was completed as part of the **Udacity's Data Analyst Nanodegree** program. 
 
 ### Overview
 
