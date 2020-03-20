@@ -30,7 +30,4 @@ This project incudes three parts.
 - **Part III - Regression:** Logistic regression was then performed to confirm results of the previous steps. Null and alternative hypotheses associated with this regression model were stated and verified using statsmodel. After that, relationship between place of user and behavior of user is examined. Statistical output using logistic regression is provided to check if country has an impact on conversion.
 
 ### Supporting Materials
- Before you run this code, you should download these csv files below.
- 
- - [AnalyzeABTestResults2](https://d17h27t6h515a5.cloudfront.net/topher/2017/December/5a32c9a0_analyzeabtestresults-2/analyzeabtestresults-2.zip)
- - [Countries](https://github.com/MadaAlAhmadi/-Analyze-A-B-Test-Results/blob/master/countries.csv)
+ Before you run this code, you should download **_ab_data.csv_** and **_countries.csv_**  files.
